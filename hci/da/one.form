@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="&#xe1b;&#xe10;&#xe21;&#xe1a;&#xe17;&#xe40;&#xe07;&#xe34;&#xe19;&#xe15;&#xe23;&#xe32;"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="66" green="ff" red="ff" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jScrollPane1" min="-2" pref="311" max="-2" attributes="0"/>
+                              <Component id="jLabel2" min="-2" pref="121" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="260" max="-2" attributes="0"/>
+                          <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="0" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="jScrollPane1" min="-2" pref="147" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="84" max="-2" attributes="0"/>
+                          <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/hci/da/New folder/onee.jpg"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="cc" red="ff" type="rgb"/>
+                </Property>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="12" style="0"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="&#xe1b;&#xe0f;&#xe21;&#xe1a;&#xe17;&#xe40;&#xe07;&#xe34;&#xe19;&#xe15;&#xe23;&#xe32; (Numismatics) &#xe40;&#xe1b;&#xe47;&#xe19;&#xe27;&#xe34;&#xe0a;&#xe32;&#xe17;&#xe35;&#xe48;&#xe28;&#xe36;&#xe01;&#xe29;&#xe32;&#xe1c;&#xe48;&#xe32;&#xe19;&#xe40;&#xe2b;&#xe23;&#xe35;&#xe22;&#xe0d;&#xa;&#xe41;&#xe25;&#xe30;&#xe18;&#xe19;&#xe1a;&#xe31;&#xe15;&#xe23;&#xe17;&#xe35;&#xe48;&#xe21;&#xe35;&#xe04;&#xe27;&#xe32;&#xe21;&#xe2a;&#xe33;&#xe04;&#xe31;&#xe0d;&#xe17;&#xe32;&#xe07;&#xe1b;&#xe23;&#xe30;&#xe27;&#xe31;&#xe15;&#xe34;&#xe28;&#xe32;&#xe2a;&#xe15;&#xe23;&#xe4c; &#xe28;&#xe34;&#xe25;&#xe1b;&#xe30; &#xa;&#xe41;&#xe25;&#xe30;&#xe40;&#xe28;&#xe23;&#xe29;&#xe10;&#xe01;&#xe34;&#xe08; &#xe01;&#xe32;&#xe23;&#xe28;&#xe36;&#xe01;&#xe29;&#xe32;&#xe1b;&#xe0f;&#xe34;&#xe21;&#xe1a;&#xe17;&#xe40;&#xe07;&#xe34;&#xe19;&#xe15;&#xe23;&#xe32;&#xe21;&#xe35;&#xe01;&#xe32;&#xe23;&#xe1e;&#xe31;&#xe12;&#xe19;&#xe32;&#xe21;&#xe32;&#xa;&#xe15;&#xe31;&#xe49;&#xe07;&#xe41;&#xe15;&#xe48;&#xe22;&#xe38;&#xe04;&#xe42;&#xe1a;&#xe23;&#xe32;&#xe13;&#xe17;&#xe35;&#xe48;&#xe21;&#xe35;&#xe01;&#xe32;&#xe23;&#xe2a;&#xe23;&#xe49;&#xe32;&#xe07;&#xe40;&#xe2b;&#xe23;&#xe35;&#xe22;&#xe0d;&#xe02;&#xe36;&#xe49;&#xe19;&#xe21;&#xe32;&#xe43;&#xe0a;&#xe49;&#xe08;&#xe19;&#xe16;&#xe36;&#xe07;&#xe01;&#xe32;&#xe23;&#xe40;&#xe01;&#xe34;&#xe14;&#xa;&#xe02;&#xe36;&#xe49;&#xe19;&#xe02;&#xe2d;&#xe07;&#xe18;&#xe19;&#xe1a;&#xe31;&#xe15;&#xe23;&#xe43;&#xe19;&#xe22;&#xe38;&#xe04;&#xe1b;&#xe31;&#xe08;&#xe08;&#xe38;&#xe1a;&#xe31;&#xe19; &#xe16;&#xe37;&#xe2d;&#xe40;&#xe1b;&#xe47;&#xe19;&#xe27;&#xe34;&#xe0a;&#xe32;&#xe17;&#xe35;&#xe48;&#xe2a;&#xe33;&#xe04;&#xe31;&#xe0d;&#xa;&#xe43;&#xe19;&#xe01;&#xe32;&#xe23;&#xe40;&#xe02;&#xe49;&#xe32;&#xe43;&#xe08;&#xe04;&#xe27;&#xe32;&#xe21;&#xe40;&#xe1b;&#xe25;&#xe35;&#xe48;&#xe22;&#xe19;&#xe41;&#xe1b;&#xe25;&#xe07;&#xe17;&#xe32;&#xe07;&#xe40;&#xe28;&#xe23;&#xe29;&#xe10;&#xe01;&#xe34;&#xe08; &#xe01;&#xe32;&#xe23;&#xe40;&#xe21;&#xe37;&#xe2d;&#xe07; &#xa;&#xe41;&#xe25;&#xe30;&#xe27;&#xe31;&#xe12;&#xe19;&#xe18;&#xe23;&#xe23;&#xe21;&#xe02;&#xe2d;&#xe07;&#xe21;&#xe19;&#xe38;&#xe29;&#xe22;&#xe4c;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Close"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="33" red="33" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xe1b;&#xe0f;&#xe21;&#xe1a;&#xe17;&#xe40;&#xe07;&#xe34;&#xe19;&#xe15;&#xe23;&#xe32;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
