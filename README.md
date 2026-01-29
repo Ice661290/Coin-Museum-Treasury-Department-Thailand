@@ -10,7 +10,7 @@
 
 ### 📍 พิกัดพิพิธภัณฑ์
 **ที่ตั้ง:** ถนนจักรพงษ์ แขวงชนะสงคราม เขตพระนคร กรุงเทพมหานคร 10200  
-**Google Maps:** [คลิกเพื่อดูแผนที่]((https://www.google.com/maps/place/Coin+Museum/@13.7590287,100.492165,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2990d4b4b6341:0xcbc2b2c2c3aa49ba!8m2!3d13.7590235!4d100.4947399!16s%2Fg%2F1q5ccbgyt?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEyNi4wIKXMDSoASAFQAw%3D%3D))
+**Google Maps:** [คลิกเพื่อดูแผนที่](https://www.google.com/maps/place/Coin+Museum/@13.7590287,100.492165,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2990d4b4b6341:0xcbc2b2c2c3aa49ba!8m2!3d13.7590235!4d100.4947399!16s%2Fg%2F1q5ccbgyt?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEyNi4wIKXMDSoASAFQAw%3D%3D)
 
 ---
 
