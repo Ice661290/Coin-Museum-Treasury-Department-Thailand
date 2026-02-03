@@ -18,7 +18,8 @@
 * **Language:**
   * Java (JDK 8)
 
-    <a href="https://www.oracle.com/asean/java/technologies/downloads/#jdk25-windows"><img width="275" height="275" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/cfede014-2e88-4723-9696-35382a94115e" />
+    <a href="https://www.oracle.com/asean/java/technologies/downloads/#jdk25-windows"><img width="275" height="275" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/fe3e0707-7f81-4658-8958-18418ca2f4ae" />
+
 
 * **IDE:**
   * NetBeans IDE 8.2
